@@ -1,4 +1,4 @@
-### Jeremy Slayter, Medical Student, Casual Biostatistics and medical statistics. 
+### Welcome to my GitHub Profile
 
 <h1> About Me </h1>
 

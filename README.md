@@ -2,7 +2,7 @@
 
 <h1> About Me </h1>
 
-<p>Casual code typically in R and RStudio, developing additional expertise as I work on additional projects. Previous experience in <b> data wrangling </b> (R, Shell, Command Line, PERL), <b> Data Analysis </b>,<b> Data Visualization</b>, and most recently<b> geo-computation and network analysis </b> in R.</p>
+<p>Casual code typically in R and RStudio, developing additional expertise as I work on additional projects. Previous experience in <b> data wrangling </b> (R, Shell, Command Line, PERL), <b>Data Analysis </b>,<b>Data Visualization</b>, and most recently<b> geo-computation and network analysis</b> in R.</p>
 
 <p>Currently I am studying medical diseases, although I am exploring the ability for improved modelling in medicine, application of machine learning/AI technology to rehabilitation, and improving patient outcomes/monitoring.</p>
 
